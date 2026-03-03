@@ -18,3 +18,5 @@ let a = 10;
 ```
 
 http://www.rit.edu
+
+[RIT](http://www.rit.edu)
